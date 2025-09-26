@@ -1,0 +1,6 @@
+.container { max-width: 700px; margin: 30px auto; font-family: Arial, sans-serif; }
+.connect input { padding: 8px; margin-right: 8px; }
+.chat-window { height: 350px; border: 1px solid #ddd; padding: 10px; overflow-y: auto; background: #fafafa; }
+.message { margin-bottom: 8px; }
+.composer { margin-top: 10px; }
+.composer input { width: 70%; padding: 8px; margin-right: 8px; }
